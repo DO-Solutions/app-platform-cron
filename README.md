@@ -102,4 +102,6 @@ doctl apps logs b6af73dc-8aba-4237-8dc9-b632ad379bd5 --type=run
 
 Jack Pearce, Solutions Engineer - jpearce@digitalocean.com
 
+If you wish to learn more about DigitalOcean's services, you are welcome to reach out to the sales team at [sales@digitalocean.com](mailto:sales@digitalocean.com). A global team of talented engineers will be happy to provide assistance.
+
 <p align="right">(<a href="#top">back to top</a>)</p>
